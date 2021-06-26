@@ -1,0 +1,54 @@
+.enterfield{
+    width: 400px;
+    margin: 0 auto;
+    font-family:PingFang TC, Semibold, Microsoft JhengHei, Arial;
+    border: 1px solid #eaeced;
+    padding: 100px;
+    background: rgb(219, 219, 219);
+    margin-top: 50px;
+}
+.enter{
+    width: 95%;
+    height: 17px;
+    padding: 8px 8px;
+    font-size: 15px;
+    line-height: 1.33333333;
+    color: #555555;
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    
+}
+.button{
+    float: left;
+    font-family: HelveticaNeue-Medium;
+    width: 100%;
+    transition: all .1s ease;
+    border: none;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 10px;
+    font-size: 18px;
+    border-radius: 2px;
+    background: #ffbb00;
+    box-shadow: #bb7101 0 -2px 0 inset;
+    text-decoration: none;
+    font-weight:bold;
+}
+.button:hover {
+    background-color: #e7aa01;
+
+}
+img{
+    max-width: 70%;
+    height: auto;
+    float: left;
+    margin-left: 10%;
+  }
+  .clear{
+    clear:both
+}
+
